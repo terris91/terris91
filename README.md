@@ -21,15 +21,15 @@
 <br/>
   
 - 📗 [***SEN NGUYỄN***](https://github.com/Eilaluth/Ayano) <br/>
-github.com/senthanh
+https://github.com/senthanh
 - 📘 [***SEN NGUYỄN****](https://github.com/Eilaluth/Kyoko) <br/>
  https://www.facebook.com/profile.php?id=100004451353302
 - 📙 [***SEN NGUYỄN****](https://github.com/Eilaluth/Kanna) <br/>
-replit.com/@senthanh20055
+https://replit.com/@senthanh20055
 - 📕 [***SEN NGUYỄN****](https://github.com/Eilaluth/Hotaru) <br/>
-senthanh.github.io/senthanh26
+https://senthanh.github.io/senthanh26
 - 📒 [***SEN NGUYỄN****](https://github.com/Eilaluth/Mocha) <br/>
-card-profile-senthanh.glitch.me
+https://card-profile-senthanh.glitch.me
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
