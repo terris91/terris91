@@ -5,31 +5,28 @@
 <br/>
 <br/>
   
-- Name **Nguyễn Thanh Sang**
+- Họ và tên:*Nguyễn Trọng Hoàng**
 
-- Nơi ở **Đà Lạt**
+- Nơi ở: **Quảng Ngãi**
 
-- Sinh Nhật [***26/06/2005***](https://smkn4palembang.sch.id/)
+- Sinh Nhật [***09/01/200X***](https://smkn4palembang.sch.id/)
 
-- Ngành **Du lịch**
+- Ngành **IT**
 
-- Học IELTS , guitar , 1 chút code :3
+- Chuyên hóa nhưng đam mê code =)))
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
   
-- 📗 [***SEN NGUYỄN***](https://github.com/Eilaluth/Ayano) <br/>
-https://github.com/senthanh
-- 📘 [***SEN NGUYỄN****](https://github.com/Eilaluth/Kyoko) <br/>
- https://www.facebook.com/profile.php?id=100004451353302
-- 📙 [***SEN NGUYỄN****](https://github.com/Eilaluth/Kanna) <br/>
-https://replit.com/@senthanh20055
-- 📕 [***SEN NGUYỄN****](https://github.com/Eilaluth/Hotaru) <br/>
-https://senthanh.github.io/senthanh26
-- 📒 [***SEN NGUYỄN****](https://github.com/Eilaluth/Mocha) <br/>
-https://card-profile-senthanh.glitch.me
+- 📗 [***GITHUB***](https://github.com/terris91) <br/>
+- 📘 [***FB MAIN****](https://www.facebook.com/t.hoang0901/) <br/>
+- 📙 [***FB BOT****](https://www.facebook.com/terris.real/) <br/>
+- 📕 [***INSTAGRAM****](https://www.instagram.com/terris.91/) <br/>
+<a href="https://www.instagram.com/micjames6/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
