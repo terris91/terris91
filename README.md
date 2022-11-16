@@ -24,9 +24,10 @@
 - 📘 [***FB MAIN****](https://www.facebook.com/t.hoang0901/) <br/>
 - 📙 [***FB BOT****](https://www.facebook.com/terris.real/) <br/>
 - 📕 [***INSTAGRAM****](https://www.instagram.com/terris.91/) <br/>
-<a href="https://www.instagram.com/micjames6/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
+<p align="left">
+ <a href="https://www.facebook.com/t.hoang0901/">
+    <img src="resources/facebook.svg" alt="facebook" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
