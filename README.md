@@ -1,4 +1,7 @@
-
+<body>
+  <center>
+<h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
+<br>
 <p>
 <div>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
@@ -7,7 +10,7 @@
 <br/>
 <br/>
   
-- Họ và tên:*Nguyễn Trọng Hoàng**
+- Họ và tên: **Nguyễn Trọng Hoàng**
 
 - Nơi ở: [***Quảng Ngãi***](https://www.google.com/search?q=Qu%E1%BA%A3ng+Ng%C3%A3i&sxsrf=ALiCzsaHuZRmsPF5TRIZz4ge-TFt-mo06Q%3A1668695516295&ei=3EV2Y4TLEcml2roPtemCeA&ved=0ahUKEwiEqfKbt7X7AhXJklYBHbW0AA8Q4dUDCA8&uact=5&oq=Qu%E1%BA%A3ng+Ng%C3%A3i&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIICC4QgAQQ1AIyBQgAEIAEMggILhCABBDUAjIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEdKBAhBGABKBAhGGABQ8zdY8zdggj5oAHACeACAAZ4BiAGeAZIBAzAuMZgBAKABAqABAcgBCMABAQ&sclient=gws-wiz-serp)
 
@@ -48,3 +51,5 @@
     <img src="resources/github.svg" alt="github" style="vertical-align:top; margin:6px 4px">
   </a>  </p>
 </div>
+
+*2022 © Terris*
