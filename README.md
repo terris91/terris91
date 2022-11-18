@@ -6,7 +6,7 @@
 <div>
 <img src="./img/Profile-elaina.png" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="600" />
+<img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
   
@@ -21,7 +21,7 @@
 - Chuyên hóa nhưng đam mê code =))), biết chút edit 
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
-<img src="./img/Repo-elaina.png" width="600" />
+<img src="./img/Repo-elaina.png" width="500" />
 <br/> 
 
 <br/> </p>
@@ -32,7 +32,7 @@
 - 📕 [***Sách của tesla***](https://www.google.com/search?q=s%C3%A1ch+c%E1%BB%A7a+tesla&bih=884&biw=1821&hl=vi&sxsrf=ALiCzsbz73_vP38sJ3TSxvkE2Q56Bp8HDg%3A1668697592292&ei=-E12Y_e5EYHl2roPsOuU8A4&ved=0ahUKEwj3lef5vrX7AhWBslYBHbA1Be4Q4dUDCA8&uact=5&oq=s%C3%A1ch+c%E1%BB%A7a+tesla&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzoECCMQJzoGCCMQJxATOgQIABBDOgsIABCABBCxAxCDAToICAAQgAQQsQM6CwguEIAEELEDEIMBOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQ0QM6BAguEEM6BwgAELEDEEM6BQguEIAESgQIQRgASgQIRhgAUABY2RZgjxpoAHABeACAAakBiAG7EpIBBDAuMTeYAQCgAQHAAQE&sclient=gws-wiz-serp) <br/>
 
 <br/>
-<img src="./img/banner-elainaa.png" width="600"  /><br/>
+<img src="./img/banner-elainaa.png" width="500"  /><br/>
   
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
 <!--
