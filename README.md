@@ -52,7 +52,7 @@
     
 
   
-<hr>
+<hr style="margin-left: auto; margin-right: auto; width: 50%;" />
 
 <h6 align="center">
   
