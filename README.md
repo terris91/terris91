@@ -30,13 +30,16 @@
 - 📕 [***Sách của tesla***](https://www.google.com/search?q=s%C3%A1ch+c%E1%BB%A7a+tesla&bih=884&biw=1821&hl=vi&sxsrf=ALiCzsbz73_vP38sJ3TSxvkE2Q56Bp8HDg%3A1668697592292&ei=-E12Y_e5EYHl2roPsOuU8A4&ved=0ahUKEwj3lef5vrX7AhWBslYBHbA1Be4Q4dUDCA8&uact=5&oq=s%C3%A1ch+c%E1%BB%A7a+tesla&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzoECCMQJzoGCCMQJxATOgQIABBDOgsIABCABBCxAxCDAToICAAQgAQQsQM6CwguEIAEELEDEIMBOgUIABCABDoRCC4QgAQQsQMQgwEQxwEQ0QM6BAguEEM6BwgAELEDEEM6BQguEIAESgQIQRgASgQIRhgAUABY2RZgjxpoAHABeACAAakBiAG7EpIBBDAuMTeYAQCgAQHAAQE&sclient=gws-wiz-serp) <br/>
 
 <br/>
-<img src="./img/banner-elainaa.png" width="500"  /><br/>
+<img src="./img/banner-elainaa.png" width="500"  /><br/><br/>
   
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
 <!--
 <img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
 -->
-# Contact
+<br>
+
+
+# Contact:
 <p align="center">
  <a href="https://www.facebook.com/t.hoang0901/">
     <img src="resources/facebook.svg" alt="facebook" style="vertical-align:top; margin:6px 4px">
@@ -49,11 +52,8 @@
     <img src="resources/github.svg" alt="github" style="vertical-align:top; margin:6px 4px">
   </a>  </p> 
 
-  <br/>
-    
-
   
-<hr style="margin-left: auto; margin-right: auto; width: 50%;" />
+<h3 align="center"; height="20"> ――――――――――――――――――――――――――――――――――――
 
 
 <h6 align="center">
