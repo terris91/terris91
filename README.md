@@ -1,5 +1,4 @@
 <body>
-  <center>
 <h1 align="center">~ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ~</h1>
 <br>
 <p>
@@ -50,11 +49,13 @@
 <a href="https://github.com/terris91">
     <img src="resources/github.svg" alt="github" style="vertical-align:top; margin:6px 4px">
   </a>  </p> 
-  <br/> <br/>
+  <br/>
     
-  <h6 align="center">
+
   
-  <hr align="center" width="50%">
+  <hr>
+
+<h6 align="center">
   
  *Copyright 2022 © Terris*
   
