@@ -53,7 +53,7 @@
     
 
   
-  <hr width=50%>
+  <hr>
 
 <h6 align="center">
   
