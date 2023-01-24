@@ -49,7 +49,10 @@
   </a>  
 <a href="https://github.com/terris91">
     <img src="resources/github.svg" alt="github" style="vertical-align:top; margin:6px 4px">
-  </a>  </p>
-</div>
+  </a>  </p> <br/> <br/>
+  
+  <h6 align="center">
+  
+ *Copyright 2022 © Terris*
 
-*2022 © Terris*
+</div>
