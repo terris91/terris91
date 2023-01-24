@@ -58,6 +58,6 @@
 
 <h6 align="center">
   
- *Copyright 2022 © Terris*
+ *Copyright 2022 © Terris* | *Source code is from [Reidho Satria](https://github.com/elliottophellia)*
   
 </div>
