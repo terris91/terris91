@@ -40,6 +40,8 @@
 
 
 # Contact:
+<br>
+
 <p align="center">
  <a href="https://www.facebook.com/t.hoang0901/">
     <img src="resources/facebook.svg" alt="facebook" style="vertical-align:top; margin:6px 4px">
@@ -56,8 +58,8 @@
 <h3 align="center"; height="20"> ――――――――――――――――――――――――――――――――――――
 
 
-<h6 align="center">
+<h6 align="center"> 
   
- *Copyright 2022 © Terris* | *Source code is from [Reidho Satria](https://github.com/elliottophellia)*
+  *Copyright 2022 © Terris ― Source code of this overview is from [Reidho Satria](https://github.com/elliottophellia)*
   
 </div>
