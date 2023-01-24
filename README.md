@@ -48,11 +48,13 @@
 <a href="https://github.com/terris91">
     <img src="resources/github.svg" alt="github" style="vertical-align:top; margin:6px 4px">
   </a>  </p> 
+
   <br/>
     
 
   
 <hr style="margin-left: auto; margin-right: auto; width: 50%;" />
+
 
 <h6 align="center">
   
