@@ -12,9 +12,9 @@
 
 - Nơi ở: [***Quảng Ngãi***](https://www.google.com/search?q=Qu%E1%BA%A3ng+Ng%C3%A3i&sxsrf=ALiCzsaHuZRmsPF5TRIZz4ge-TFt-mo06Q%3A1668695516295&ei=3EV2Y4TLEcml2roPtemCeA&ved=0ahUKEwiEqfKbt7X7AhXJklYBHbW0AA8Q4dUDCA8&uact=5&oq=Qu%E1%BA%A3ng+Ng%C3%A3i&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIICAAQgAQQsQMyBQgAEIAEMgUIABCABDIICC4QgAQQ1AIyBQgAEIAEMggILhCABBDUAjIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEdKBAhBGABKBAhGGABQ8zdY8zdggj5oAHACeACAAZ4BiAGeAZIBAzAuMZgBAKABAqABAcgBCMABAQ&sclient=gws-wiz-serp)
 
-- Sinh Nhật ***09/01/200X***
+- Ngày sinh: ***09/01/200X***
 
-- Trường: [**THPT Chuyên Lê Khiết**](https://www.google.com/search?q=thpt+chuy%C3%AAn+l%C3%AA+khi%E1%BA%BFt&source=lmns&bih=884&biw=1821&hl=vi&sa=X&ved=2ahUKEwjj3ce6vrX7AhXPzIsBHZ6PDEUQ_AUoAHoECAEQAA)
+- Đã học tại: [**THPT Chuyên Lê Khiết**](https://www.google.com/search?q=thpt+chuy%C3%AAn+l%C3%AA+khi%E1%BA%BFt&source=lmns&bih=884&biw=1821&hl=vi&sa=X&ved=2ahUKEwjj3ce6vrX7AhXPzIsBHZ6PDEUQ_AUoAHoECAEQAA)
 
 - Chuyên hóa nhưng đam mê code =))), biết chút edit 
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
