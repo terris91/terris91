@@ -42,7 +42,7 @@
 # Contact:
 <br>
 
-<p align="center">
+<p align="center" >
  <a href="https://www.facebook.com/terris91/">
     <img src="resources/facebook.svg" alt="facebook" style="vertical-align:top; margin:6px 4px">
   </a>  
