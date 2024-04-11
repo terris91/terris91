@@ -3,7 +3,7 @@
 <br/>  -->
 
 # Nothing here
-## Contact Telegram: [@VerseDev](https://t.me/versedev)
+## Contact: versedev.store@proton.me
 - Thank you for reading!
 
 
