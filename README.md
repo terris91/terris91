@@ -52,7 +52,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 `Update Jun 30, 2024:` I have been working on making thumbnail for [Lostsec](https://www.youtube.com/results?search_query=lostsec) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
 
-`Update Mar 28, 2024:` My .
+`Update Mar 28, 2024:` Journey to Software Developer👀.
 
 ---
 
@@ -73,12 +73,14 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 <details>
 <summary>Show Projects</summary>
-
 <!-- PROJECTS:START -->
- - 💯 Visit this amazing [Obfuscator Project](https://hashnode.heyprakhar.com/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript) for Python by [Huynhngocuyen](https://github.com/hngocuyen)
- - 🚀 [New to Open Source? Know everything you need to!](https://hashnode.heyprakhar.com/new-to-open-source-know-everything-you-need-to)
- - 🔥 [Sharing my little journey of HacktoberFest with you!](https://hashnode.heyprakhar.com/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
 
+ - 💯 Visit this amazing [Obfuscator Project](https://github.com/hngocuyen/enjuly19) for Python by [Huynhngocuyen](https://github.com/hngocuyen)
+  
+ - 🚀 Read this [Python Obfuscation Docs](https://github.com/hngocuyen/OEK) for Vietnamese people if you want to make Obfuscator or Reverse Engineering.
+  
+ - 🔥 [Bug Bounty Tools](https://github.com/coffinxp?tab=repositories)
+<!-- PROJECTS:END -->
 </details> 
 
 
@@ -96,7 +98,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 | ----------- | ------ |
 | **WebDev:** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"> |
 | **Programming:** | &nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">|
-| **Operating System:** | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
+| **Operating System:** | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
 | **Other Technologies:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <!-- <img src="" alt=""> -->
 <img  width="150px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
@@ -121,7 +123,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 <summary>Show Projects & Contributions</summary>
 
 ### My Own Projects
-
+I'm sorry, but most of my tools can't be made public due to privacy concerns and terms of use
 | Project | Description |
 | ------  | ----------- |
 | [My Web Shortcuts](https://github.com/mywebshortcuts/mywebshortcuts) | A browser Extension used to create custom keyboard shortcuts in a website 🌎💻 |
