@@ -50,7 +50,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 `Update Jul 24, 2024:` I'll be launching A lot of exciting Open Source Projects soon.
 
-`Update Jun 30, 2024:` I have been working on making thumbnail for [Lostsec](https://www.youtube.com/results?search_query=lostsec) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
+`Update Jun 30, 2024:` I have been working on making thumbnail for [Lostsec](https://www.youtube.com/@lostsecc) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
 
 `Update Mar 28, 2024:` Journey to Software Developer👀.
 
