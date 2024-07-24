@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way to becoming a **Cybersecurity Specialists** and a **Front-end Developer** (Optional). <br>
+I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way to becoming a **Cybersecurity Specialists** or a **Front-end Developer** (Optional). <br>
 Technology has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, SQLI, ... are very dangerous so I hope I will become a Cybersecurity Specialists so I can protect people from them.
 
 
