@@ -36,14 +36,14 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 <h2 id="present_status"> Present Status </h3>
 
-
+<img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
 
 👉 Learning React JS & Chrome Extension Development 💻
 
 👉 Managing Tech Communities & Organizing Events 🎙
 
 👉 Writing Useful Content on **[Hashnode](https://hashnode.heyprakhar.com)**, [**FreeCodeCamp**](https://www.freecodecamp.org/news/author/prakhartiwari0/), [LinuxHandbook](https://linuxhandbook.com/author/prakhar/) and [Bearblog](https://techexplorer.bearblog.dev/).
-<img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
+
 👉 Building & Contributing to Open Source Projects
 
 `Update 16 Sep 2023:` I'll be launching A lot of exciting Open Source Projects soon
