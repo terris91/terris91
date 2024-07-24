@@ -192,7 +192,6 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
   <b><i>"Never give up. Never back down."</i></b>
 </p>
 
-
-<p align='center'><strong>🌱</strong></p>
-
-
+<p align="center">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">🌱</a>
+</p>
