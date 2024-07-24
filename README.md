@@ -193,5 +193,5 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
 </p>
 
 <p align="center">
-<a href="">🌱</a>
+<a>🌱</a>
 </p>
