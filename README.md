@@ -34,6 +34,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 </details>
 <br>
+
 ---
 
 <h2 id="present_status"> Present Status </h3>
