@@ -22,7 +22,7 @@
 <details>
   <summary>More about me</summary>
 
-- I'm on my way to becoming a **software developer** and **front-end developer**
+- I'm on my way to becoming a **software developer** and a **front-end developer**
 
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
 
