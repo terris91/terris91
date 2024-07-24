@@ -19,8 +19,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Verse](https://elncqmelhhcm.click)**, a coder and editor. I'm on my way to becoming a **software developer** and a **front-end developer**. <br>
-Technology has always fascinated me, and I've immersed myself in the captivating world of desktop application development.
+I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way to becoming a **Cybersecurity Specialists** and a **Front-end Developer** (Optional). <br>
+Technology has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, SQLI, ... are very dangerous so I hope I will become a Cybersecurity Specialists so I can protect people from them.
 
 
 <details>
@@ -28,6 +28,9 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 - **Name**: Hoang
 - **From**: Vietnam
+- I was exposed to many malwares like stealers, grabbers, keyloggers, virus, ransomware, ... so I know how to handle a little bit
+- Low-level in Reverse Engineering, Malware Analysis
+- Improving knowledge in Website Vulnerabilities
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
 - I’m currently learning **everything** 
 - Reach me out at **versedev.store@proton.me**
@@ -49,11 +52,13 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 👉 Building & Contributing to Open Source Projects
 
-`Update Jul 24, 2024:` I'll be launching A lot of exciting Open Source Projects soon.
+👉 Currently Learning IoT But It Is So Hard ( I Quite Hate It :) )
 
-`Update Jun 30, 2024:` I have been working on making thumbnail for [Lostsec](https://www.youtube.com/@lostsecc) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
+`Update Jul 24, 2024:`  I'll be launching A lot of exciting Open Source Projects soon.
 
-`Update Mar 28, 2024:` Journey to Software Developer👀.
+`Update Jun 30, 2024:`  I have been working on making thumbnail for [Lostsec](https://www.youtube.com/@lostsecc) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
+
+`Updating:`  Journey to Cybersecurity Specialists👀.
 
 ---
 
