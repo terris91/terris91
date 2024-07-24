@@ -20,7 +20,7 @@
 </h2>
 
 I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way to becoming a **Cybersecurity Specialists** or a **Front-end Developer** (Optional). <br>
-Technology has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, SQLI, ... are very dangerous so I hope I will become a Cybersecurity Specialists then I can protect people from them.
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, SQLI, ... are very dangerous so I hope I will become a Cybersecurity Specialists then I can protect people from them.
 
 
 <details>
