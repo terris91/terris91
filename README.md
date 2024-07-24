@@ -49,9 +49,9 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
 
 👉 Managing Tech Communities & Organizing Events.
 
-👉 Writing Some Useful Python and .NET Frameworks Tools For Myself & Communities
+👉 Writing Some Useful Python & .NET Frameworks Tools For Myself & Communities
 
-👉 Building & Contributing to Open Source Projects
+👉 Building & Contributing To Open Source Projects
 
 👉 Currently Learning IoT But It Is So Hard ( I Quite Hate It :) )
 
