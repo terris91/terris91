@@ -1,16 +1,14 @@
 
+<p align="center"><img src="https://i.imgur.com/qbBVvgW.png" width="80%" height="auto"/></p>
 
 
-
-
-![violet_github_banner-modified](https://github.com/prakhartiwari0/prakhartiwari0/assets/65062036/7ddcb24f-3be6-4b44-a1d8-352c7d75bed7)
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=19&pause=500&color=FFCE76&width=435&lines=Ask+me+anything+via+email.)](https://git.io/typing-svg)
-
-
-<h3 align="center">On a Journey to become a great human being...<p align="right"></h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=19&pause=500&color=FFCE76&width=435&lines=On+a+journey+to+become+a+great+human..." alt="Typing SVG" />
+  </a>
+</div>
+<!--
+<h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 
 <img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
@@ -28,8 +26,8 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 <details>
   <summary>More about me</summary>
 
-- Name: Hoang
-- From: Vietnam 🇻🇳
+- **Name**: Hoang
+- **From**: Vietnam
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
 - I’m currently learning **everything** 
 - Reach me out at **versedev.store@proton.me**
@@ -72,8 +70,8 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=prakhartiwari0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhartiwari0&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhartiwari0&layout=compact" /> |
-| ------------- | ------------- | ------------- |
+  [![GitHub Streak](https://streak-stats.demolab.com?user=terris91&theme=dark&card_width=450)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=terris91&theme=vision-friendly-dark)](https://github.com/terris91/github-readme-stats)
 
 
 
