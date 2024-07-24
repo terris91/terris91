@@ -20,7 +20,7 @@
 </h2>
 
 I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way to becoming a **Cybersecurity Specialists** or a **Front-end Developer** (Optional). <br>
-Technology has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, SQLI, ... are very dangerous so I hope I will become a Cybersecurity Specialists so I can protect people from them.
+Technology has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, SQLI, ... are very dangerous so I hope I will become a Cybersecurity Specialists then I can protect people from them.
 
 
 <details>
@@ -28,8 +28,8 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 - **Name**: Hoang
 - **From**: Vietnam
-- I was exposed to many malwares like stealers, grabbers, keyloggers, virus, ransomware, ... so I know how to handle a little bit
-- Low-level in Reverse Engineering, Malware Analysis
+- I was exposed to many **malwares** like **stealers**, **grabbers**, **keyloggers**, **viruses**, **ransomwares**, ... so I know how to handle a little bit
+- Low-level in **Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in Website Vulnerabilities
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
 - I’m currently learning **everything** 
@@ -48,7 +48,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 👉 Managing Tech Communities & Organizing Events.
 
-👉 Writing Some Useful Python and .NET Tools For Myself and Communities
+👉 Writing Some Useful Python and .NET Frameworks Tools For Myself & Communities
 
 👉 Building & Contributing to Open Source Projects
 
@@ -58,7 +58,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 `Update Jun 30, 2024:`  I have been working on making thumbnail for [Lostsec](https://www.youtube.com/@lostsecc) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
 
-`Updating:`  Journey to Cybersecurity Specialists👀.
+`Updating:`  Journey to Cybersecurity Specialist👀.
 
 ---
 
