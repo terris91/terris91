@@ -28,7 +28,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 - **Name**: Hoang
 - **From**: Vietnam
-- Red Teamming | Security Researcher | Malware Analysist (still learning)
+- **Red Teamming** | **Security Researcher** | **Malware Analysist** (still learning)
 - I was exposed to many **malwares** like **stealers**, **grabbers**, **keyloggers**, **viruses**, **ransomwares**, ... so I know how to handle a little bit
 - Low-level in **Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in Website Vulnerabilities
