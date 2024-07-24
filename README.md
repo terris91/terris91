@@ -91,7 +91,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 <summary>Show Skills</summary>
 
 ### Technical Skills
-
+<img  width="350px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
 
 
 | Skill Group | Skills |
@@ -101,7 +101,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 | **Operating System:** | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
 | **Other Technologies:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <!-- <img src="" alt=""> -->
-<img  width="150px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
+
 
 ### Real Life Skills
 
