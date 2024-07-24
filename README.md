@@ -41,43 +41,46 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 <img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
 
-👉 Learning React JS & Chrome Extension Development 💻
+👉 Still Learning Javascript  & Windows Presentation Foundation.
 
-👉 Managing Tech Communities & Organizing Events 🎙
+👉 Managing Tech Communities & Organizing Events.
 
-👉 Writing Useful Content on **[Hashnode](https://hashnode.heyprakhar.com)**, [**FreeCodeCamp**](https://www.freecodecamp.org/news/author/prakhartiwari0/), [LinuxHandbook](https://linuxhandbook.com/author/prakhar/) and [Bearblog](https://techexplorer.bearblog.dev/).
+👉 Writing Some Useful Python and .NET Tools For Myself and Communities
 
 👉 Building & Contributing to Open Source Projects
 
-`Update 16 Sep 2023:` I'll be launching A lot of exciting Open Source Projects soon
+`Update Jul 24, 2024:` I'll be launching A lot of exciting Open Source Projects soon.
 
-`Update 7 Nov 2023:` I have been working on [**My Web Shortcuts**](https://www.mywebshortcuts.xyz/) for nearly a month and it will launch very soon.
+`Update Jun 30, 2024:` I have been working on making thumbnail for [Lostsec](https://www.youtube.com/results?search_query=lostsec) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
 
-`Update 22 Dec 2023:` My Web Shortcuts was [launched about a month ago on Product Hunt](https://www.producthunt.com/posts/my-web-shortcuts), and has an amazing response. Let's see what the future has for this little project.
+`Update Mar 28, 2024:` My .
 
-<h3 id="blog_posts">Recent Blog Posts</h3>
+---
 
 
-<details>
-<summary>Show Blog posts</summary>
-
-<!-- BLOGPOSTS:START -->
- - 💯 [Useful websites that I have bookmarked &lpar;&amp; you should too&rpar; to Learn &amp; Practice JavaScript](https://hashnode.heyprakhar.com/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript)
- - 🚀 [New to Open Source? Know everything you need to!](https://hashnode.heyprakhar.com/new-to-open-source-know-everything-you-need-to)
- - 🔥 [Sharing my little journey of HacktoberFest with you!](https://hashnode.heyprakhar.com/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
-
-</details> 
 
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+<img align="right" width="43%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=terris91&theme=vision-friendly-dark)](https://github.com/terris91/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=terris91&theme=dark&card_width=450)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/terris91/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
-  
 
+<br><br>
+
+<h2 id="open_source_projects">Some Open Source Projects</h2>
+
+<details>
+<summary>Show Projects</summary>
+
+<!-- PROJECTS:START -->
+ - 💯 Visit this amazing [Obfuscator Project](https://hashnode.heyprakhar.com/useful-websites-that-i-have-bookmarked-you-should-too-to-learn-practice-javascript) for Python by [Huynhngocuyen](https://github.com/hngocuyen)
+ - 🚀 [New to Open Source? Know everything you need to!](https://hashnode.heyprakhar.com/new-to-open-source-know-everything-you-need-to)
+ - 🔥 [Sharing my little journey of HacktoberFest with you!](https://hashnode.heyprakhar.com/sharing-my-little-journey-of-hacktoberfest-with-you)<!-- BLOGPOSTS:END -->
+
+</details> 
 
 
 <h2 id="skills" align=''> Skills 🌱</h3>
