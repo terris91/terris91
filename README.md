@@ -36,7 +36,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="70%" align='right' src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<img width="50%" align='right' src="https://i.imgur.com/jNwUcdd.gif">
 
 👉 Learning React JS & Chrome Extension Development 💻
 
