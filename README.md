@@ -33,7 +33,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 - Reach me out at **versedev.store@proton.me**
 
 </details>
-
+<br>
 ---
 
 <h2 id="present_status"> Present Status </h3>
