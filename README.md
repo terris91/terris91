@@ -14,10 +14,10 @@
 <img width="28%" align='right' src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 
-<h3 align="left">
+<h2 align="left">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h3>
+</h2>
 
 I'm **[Verse](https://elncqmelhhcm.click)**, a coder and editor. I'm on my way to becoming a **software developer** and a **front-end developer**. <br>
 Technology has always fascinated me, and I've immersed myself in the captivating world of desktop application development.
