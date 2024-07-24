@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://i.imgur.com/qbBVvgW.png" width="80%" height="auto"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 
-<img width="38%" align='right' src="https://i.imgur.com/kWjz45r.gif">
+<img width="33%" align='right' src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
 
 <h3 align="left">
@@ -36,7 +36,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="33%" align='right' src="https://i.imgur.com/6fnI21B.gif">
+<img width="33%" align='right' src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
 
 👉 Learning React JS & Chrome Extension Development 💻
 
