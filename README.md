@@ -34,10 +34,10 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 </details>
 
----
+
 
 <h2 id="present_status"> Present Status </h3>
-
+---
 <img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
 
 👉 Learning React JS & Chrome Extension Development 💻
