@@ -71,7 +71,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="45%" src="https://i.imgur.com/Cp04nQS.png"/>
+<img align="right" width="40%" src="https://i.imgur.com/Cp04nQS.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=terris91&theme=vision-friendly-dark)](https://github.com/terris91/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=terris91&theme=dark&card_width=450)](https://git.io/streak-stats) 
