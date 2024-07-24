@@ -188,8 +188,11 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
   div>
 </details>
 
-<p align='center'> <strong>I Love Connecting With Amazing People Like You!😄</strong></p>
+<p align="center">
+  <b><i>"Never give up. Never back down."</i></b>
+</p>
 
-<p align='center'><strong>Take Care 🌱</strong></p>
+
+<p align='center'><strong>🌱</strong></p>
 
 
