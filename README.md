@@ -97,7 +97,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 | Skill Group | Skills |
 | ----------- | ------ |
 | **WebDev:** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"> |
-| **Programming:** | &nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">|
+| **Programming:** | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">|
 | **Operating System:** | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
 | **Other Technologies:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 <!-- <img src="" alt=""> -->
@@ -117,74 +117,51 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 </details> -->
 
 
-<h2 id="projects" align=''> My Projects & Open Source Contributions 🔥</h2>
+<h2 id="projects" align=''> My Open-Source Projects 🔥</h2>
 
 <details>
-<summary>Show Projects & Contributions</summary>
+<summary>Show Projects</summary>
 
 ### My Own Projects
-I'm sorry, but most of my tools can't be made public due to privacy concerns and terms of use
+**I'm sorry, but most of my tools can't be made public due to privacy concerns and terms of use.**
 | Project | Description |
 | ------  | ----------- |
-| [My Web Shortcuts](https://github.com/mywebshortcuts/mywebshortcuts) | A browser Extension used to create custom keyboard shortcuts in a website 🌎💻 |
-| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
-| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
-| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
+| [Portfolio Website](https://github.com/terris91/portfolio-website) | A portfolio website made with Vue.js and Tailwind CSS. 🌎💻 |
+| [Messenger Bot](https://github.com/terris91/SIESTA-BOT) | SIESTA-BOT is a Messenger ChatBot based on [Mirrai-V2](https://github.com/m1raibot/miraiv2) . |
+| [Captcha Bot](https://github.com/terris91/Bot-captcha-Tele) | It is a Telegram Captcha Bot using reCaptcha, very useful for private telegram group. |
+| [Wifi Password Brute-Forcer](https://github.com/terris91/check-pass-wifi) | A simple tool I wrote in Python :) (Very slow). |
 
-
-
-### Open Source Projects I have contributed to ⭐:
-| Project | Description |
-| ------  | ----------- |
-|[Tourism Website](https://github.com/PritamSarbajna/tourism-website)| ADVENTURE - A simple website of a tourism agency for tourists.|
-| [BroTab](https://github.com/balta2ar/brotab) | Control your browser's tabs from the command line |
-| [MedFlare](https://github.com/prathimacode-hub/MedFlare)| Med Flare is an instant medical aid app to resolve the hassles and address the emergencies at right frame of time to the needy. |
-| [LinkFree](https://github.com/MichaelBarney/LinkFree) | A free and open source alternative to LinkTree |
-| [Stack-Docs](https://github.com/CaiJimmy/stack-docs) | Source of Stack theme's documentation |
-| [Safe Eyes](https://github.com/slgobinath/SafeEyes) | Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder | 
-
-And many other contributions to open source 😇. I love contributing whatever I can to help others! 
 
 </details>
 
 
-<h2 id="achievements" align=''>Achievements ⚡️ & Testimonials 😇</h2>
+<h2 id="donate" align=''>Donate ⚡️ Support</h2>
 
 <details>
-<summary>Show Achievements</summary>
+<summary>Crypto</summary>
 
 <!-- <a href="" target="_blank"><img src="" width="00px"/></a> -->
 
-| Name | Description | Proof |
+| Name | Description | Address |
 | ---- | ----------- | ----- |
-| HackOdisha 2.0 | I participated in HackOdisha 2.0 and was a part of a team. We worked on a project together and I got to learn a lot from that experience | <a href="https://certificate.givemycertificate.com/c/928982d6-1e3a-4a5d-8494-4d8acb810064" target="_blank"><img src="https://user-images.githubusercontent.com/65062036/198053762-c8ccb1b6-2903-422a-9e71-5a14c779cede.png" width="100%"/></a>|
-| Hacktoberfest 2022 & 2023 | I participated and completed Hacktoberfest 2022 | <a href="https://holopin.io/@prakhar_tiwari" target="_blank"><img src="https://holopin.me/prakhar_tiwari" width="100%"/></a> |
+| **BTC** | Bitcoin | *1CJXjBd3d2phJiMotRrhXFVcWbmffq2bSf* |
+| **USDT** | TRC20 | *TVcYHPzMnrbrshf2ZdvCzcdpvwLRSvPiPH* |
+| **Binance** | UID | *847034324* |
 
 </details>
 
 
 <details>
-<summary>Show Testimonials</summary>
+<summary>Vietnamese Bank</summary>
 
-If you know me for a while and want to share something about me, you can **create an [issue for testimonials](https://github.com/prakhartiwari0/prakhartiwari0/issues/new/choose).**
+**Owner: NGUYEN TRONG HOANG**
 
-| Name | About | Testimonial |
-| ---- | ----------- | ----------- |
-| **[Pritam Sarbajna](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)** | **IT undergrad, Developer, Open source and cybersecurity enthusiast** | _"I've known Prakhar from github, When he contributed one of my open-source repo. After having some conversation with him I'm amazed to know that he's just in school and learnt so much. Always love to talk with these enthusiastic fellas !!! Wish you all the best for future! "_ [{Source}](https://github.com/prakhartiwari0/prakhartiwari0/issues/7) |
+| Bank | Number | QR Code |
+| ---- | - | - |
+| **Vietcombank** | 1043132503 | <img align="centre" src="https://github.com/user-attachments/assets/10cbfe16-9659-4d17-b89a-ef15e30ed23c" title="vcb" width="40%"/> |
 
  </details>
 
-<!-- [![Prakhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakhartiwari0&theme=github)](https://www.heyprakhar.xyz/links) -->
-
-
-<h3 id="support" align='center'> 
- 
- 
-<a href="https://github.com/sponsors/prakhartiwari0" target="_blank">
-Support my work 😄
-</a> </h3>
-
-<!-- 
 <a href="" target="_blank">
 <img src="" alt="">
 </a> 
@@ -194,4 +171,4 @@ Support my work 😄
 
 <p align='center'><strong>Take Care 🌱</strong></p>
 
--->
+
