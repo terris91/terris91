@@ -72,7 +72,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=terris91&theme=dark&card_width=450)](https://git.io/streak-stats) 
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=terris91&theme=vision-friendly-dark)](https://github.com/terris91/github-readme-stats)
-  <p align="center"><a href="https://github.com/terris91/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+  <p align="center"><a href="https://github.com/terris91/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&layout=compact&theme=vision-friendly-dark" width="250"" /></a></p>
   
 
 
