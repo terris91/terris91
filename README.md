@@ -11,7 +11,7 @@
 <h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
 
 
-<img width="33%" align='right' src="https://i.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.webp">
+<img width="43%" align='right' src="https://i.imgur.com/kWjz45r.gif">
 
 
 <h3 align="left">
