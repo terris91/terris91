@@ -69,7 +69,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 <br><br>
 
-<h2 id="open_source_projects">Some Open Source Projects</h2>
+<h2 id="open_source_projects">Some Open Source Projects✨</h2>
 
 <details>
 <summary>Show Projects</summary>
@@ -90,7 +90,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
  <details>
 <summary>Show Skills</summary>
 
-### Technical Skills 💻
+### Technical Skills
 
 
 
@@ -158,16 +158,30 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 | Bank | Number | QR Code |
 | ---- | - | - |
-| **Vietcombank** | 1043132503 | <img align="centre" src="https://github.com/user-attachments/assets/10cbfe16-9659-4d17-b89a-ef15e30ed23c" title="vcb" width="40%"/> |
+| **Vietcombank** | 1043132503 | ![image](https://github.com/user-attachments/assets/9f1abd85-9e52-46c8-b00c-88ae62c1fcd2) |
+| **Techcombank** | 3409019999 | ![image](https://github.com/user-attachments/assets/ae60e392-c986-47e3-84e6-97fa3a911300) |
 
- </details>
+ </details> 
 
-<a href="" target="_blank">
-<img src="" alt="">
-</a> 
+ <h2 id="donate" align=''>Contact 📨</h2>
+<details>
+  <summary>Show Contact</summary>
+ <div>
+<p align="center">
+  <a href="https://t.me/VerseDev"><img width="48px" alt="Telegram" title="Telegram" src="https://i.imgur.com/V98hlNv.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/lventador.verse"><img width="48px" alt="Facebook" title="Facebook" src="https://i.imgur.com/2OULVpW.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/_verse.dev/" alt="Instagram"><img width="48px" src="https://i.imgur.com/P8kD6eu.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/channels/@me/1226517205467009105"><img width="48px" alt="Discord" title="Discord" src="https://i.imgur.com/yFf5Y3n.png"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:versedev.store@proton.me"><img width="48px" alt="Mail" title="Mail" src="https://i.imgur.com/D5dddvf.png"></a>
+</
+  div>
+</details>
 
-
-<p align='center'> <strong>I Love Connecting with amazing people like you!😄</strong></p>
+<p align='center'> <strong>I Love Connecting With Amazing People Like You!😄</strong></p>
 
 <p align='center'><strong>Take Care 🌱</strong></p>
 
