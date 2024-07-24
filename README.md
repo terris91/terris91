@@ -91,7 +91,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 <summary>Show Skills</summary>
 
 ### Technical Skills
-<img  width="350px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
+<img  width="300px" align='right' src="https://i.giphy.com/media/TEILCythSScYyaaEDK/giphy.webp">
 
 
 | Skill Group | Skills |
