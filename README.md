@@ -25,7 +25,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 
 <details>
   <summary>More about me</summary>
-
+<br>
 - **Name**: Hoang
 - **From**: Vietnam
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
@@ -33,7 +33,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 - Reach me out at **versedev.store@proton.me**
 
 </details>
-<br><br><br>
+<br><br>
 
 ---
 
