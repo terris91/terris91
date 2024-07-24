@@ -31,7 +31,7 @@ Technology has always fascinated me, and I've immersed myself in the captivating
 - **Red Teamming** | **Security Researcher** | **Malware Analysist** (low-level)
 - I was exposed to many **malwares** like **stealers**, **grabbers**, **keyloggers**, **viruses**, **ransomwares**, ... so I know how to handle a little bit
 - Low-level in **Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in Website Vulnerabilities
+- Improving knowledge in **Website Vulnerabilities Scanning**
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
 - I’m currently learning **everything** 
 - Reach me out at **versedev.store@proton.me**
