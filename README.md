@@ -172,18 +172,6 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
 </details>
 
 
-<details>
-<summary>Vietnamese Bank</summary>
-
-**Owner: NGUYEN TRONG HOANG**
-
-| Bank | Number | QR Code |
-| ---- | - | - |
-| **Vietcombank** | 1043132503 | ![image](https://github.com/user-attachments/assets/9f1abd85-9e52-46c8-b00c-88ae62c1fcd2) |
-| **Techcombank** | 3409019999 | ![image](https://github.com/user-attachments/assets/ae60e392-c986-47e3-84e6-97fa3a911300) |
-
- </details> 
-
  <h2 id="donate" align=''>Contact 📨</h2>
 <details>
   <summary>Show Contact</summary>
