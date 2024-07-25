@@ -1,4 +1,4 @@
-
+<!-- WHY ARE YOU VIEWING MY PROFILE SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
 
@@ -154,6 +154,15 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
 | **BTC** | Bitcoin | *1CJXjBd3d2phJiMotRrhXFVcWbmffq2bSf* |
 | **USDT** | TRC20 | *TVcYHPzMnrbrshf2ZdvCzcdpvwLRSvPiPH* |
 | **Binance** | UID | *847034324* |
+
+</details>
+
+<details>
+<summary>Buy Me A Coffee</summary>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/13296016-c859-4387-98ab-24ba9c03ba82" width="80%" height="auto"/></p>
+
+<p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
 
