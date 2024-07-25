@@ -1,6 +1,11 @@
 <!-- WHY ARE YOU VIEWING MY PROFILE SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
+
+
+
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
