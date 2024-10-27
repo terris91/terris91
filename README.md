@@ -168,11 +168,12 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <p align="center"><img src="https://github.com/user-attachments/assets/13296016-c859-4387-98ab-24ba9c03ba82" width="80%" height="auto"/></p>
 <!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> -->
 
-<p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" width="30%" height="auto"/></a></p>
+<p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://github.com/user-attachments/assets/b981a2ec-a856-4db8-aae4-d426f6ec031a" width="30%" height="auto"/></a></p>
 
 </details>
 
-<!--
+<!--!
+
  <h2 id="donate" align=''>Contact 📨</h2>
 <details>
   <summary>Show Contact</summary>
