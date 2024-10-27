@@ -164,7 +164,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <details>
 <summary>Buy Me A Coffee</summary>
-
+<br>
 <p align="center"><img src="https://github.com/user-attachments/assets/13296016-c859-4387-98ab-24ba9c03ba82" width="80%" height="auto"/></p>
 <!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> -->
 
