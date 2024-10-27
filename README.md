@@ -24,8 +24,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way to becoming a **Cybersecurity Specialists** or a **Front-end Developer** (Optional). <br>
-**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, SQLI, ... are very dangerous so I hope I will become a Cybersecurity Specialists then I can protect people from them.
+I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer** or **Motion Graphics Designer**(Optional). <br>
+**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of design. I thrive on creating responsive Movie or Anime Streaming Websites (yes, I'm a Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements. (Is it strange for a CE Student to have these hobbies?)
 
 
 <details>
@@ -33,12 +33,13 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
 
 - **Name**: Hoang
 - **From**: Vietnam
-- **Red Teamming** | **Security Researcher** | **Malware Analysist** (low-level)
-- I was exposed to many **malwares** like **stealers**, **grabbers**, **keyloggers**, **viruses**, **ransomwares**, ... so I know how to handle a little bit
-- Low-level in **Reverse Engineering**, **Malware Analysis**
-- Improving knowledge in **Website Vulnerabilities Scanning**
-- I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
-- I’m currently learning **everything** 
+- **CE Student**
+- **Video Editor** | **Motion Graphics Ads Creator** (entry-level) | **Banner/Poster Ads Designer** (entry-level)
+- Entry-level in **Reverse Engineering**, **Malware Analysis**
+- Enhancing Expertise in **Front-End Web Development**
+- I’m planning to dive into **Back-End Web Development** in the future, building on my front-end skills to create full, end-to-end applications
+- I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
+- I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
 
 </details>
@@ -50,13 +51,11 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
 
 <img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
 
-👉 Still Learning Javascript  & Windows Presentation Foundation.
+👉 Still Learning Javascript  & Tailwind CSS.
 
-👉 Managing Tech Communities & Organizing Events.
+👉 Writing Some Useful Python & .NET Frameworks Tools For Myself
 
-👉 Writing Some Useful Python & .NET Frameworks Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
+👉 Creating Dynamic Ads, Posters, & Videos
 
 👉 Currently Learning IoT But It Is So Hard ( I Quite Hate It :) )
 
@@ -64,7 +63,7 @@ I'm **[Verse](https://elncqmelhhcm.click)**, a Coder and Editor. I'm on my way t
 
 `Update Jun 30, 2024:`  I have been working on making thumbnail for [Lostsec](https://www.youtube.com/@lostsecc) since [this video](https://www.youtube.com/watch?v=qb93-S9BvTU&t=50s).
 
-`Updating:`  Journey to Cybersecurity Specialist👀.
+`Updating:`  Journey to become a ... 👀.
 
 ---
 
