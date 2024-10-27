@@ -34,7 +34,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - **Name**: Hoang
 - **From**: Vietnam
 - **CE Student**
-- **Video Editor** | **Motion Graphics Ads Creator** (entry-level) | **Banner/Poster Ads Designer** (entry-level)
+- **Video Editor** | **Motion Graphics Ads Creator** (low-level) | **Banner/Poster Ads Designer** (standard-level)
 - Entry-level in **Reverse Engineering**, **Malware Analysis**
 - Enhancing Expertise in **Front-End Web Development**
 - I’m planning to dive into **Back-End Web Development** in the future, building on my front-end skills to create full, end-to-end applications
