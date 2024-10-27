@@ -48,7 +48,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 ---
 
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status"> Present Status ✏️</h3>
 
 <img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
 
