@@ -190,9 +190,11 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 </details>
 -->
 <p align="center">
-  <b><i>"H.O.P.E. Hold on, Pain ends."</i></b>
+  <b><i>"HOPE"</i></b>
 </p>
-
+<p align="center">
+  <b><i>"Hold on, Pain ends."</i></b>
+</p>
 <p align="center">
 <a>🌱</a>
 </p>
