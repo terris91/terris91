@@ -190,7 +190,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 </details>
 -->
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+  <b><i>"H.O.P.E. Hold on, Pain ends."</i></b>
 </p>
 
 <p align="center">
