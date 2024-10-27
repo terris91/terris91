@@ -165,10 +165,9 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 
 <br>
-<p align="center"><img src="https://github.com/user-attachments/assets/60de6304-57e7-449b-a91f-6697bce0fb49" width="90%" height="auto"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5376a40f-c469-462f-b7e9-2895ef6e44b7" width="90%" height="auto"/></p>
 <!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> -->
 <p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://github.com/user-attachments/assets/68f7f0c1-7574-454d-9f93-3fa2387242a8" width="30%" height="auto"/></a></p>
-
 
 
 <!--!
