@@ -54,9 +54,9 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 👉 Still Learning Javascript  & Tailwind CSS.
 
-👉 Writing Some Useful Python & .NET Frameworks Tools For Myself
+👉 Writing Some Useful Python & .NET Frameworks Tools For Myself.
 
-👉 Creating Dynamic Ads, Posters, & Videos
+👉 Creating Dynamic Ads, Posters, & Videos.
 
 👉 Currently Learning IoT But It Is So Hard ( I Quite Hate It :) )
 
