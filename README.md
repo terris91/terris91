@@ -181,7 +181,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/lventador.verse"><img width="48px" alt="Facebook" title="Facebook" src="https://i.imgur.com/2OULVpW.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_verse.dev/" alt="Instagram"><img width="48px" src="https://i.imgur.com/P8kD6eu.png"/></a>
+  <a href="https://www.instagram.com/_verse.des/" alt="Instagram"><img width="48px" src="https://i.imgur.com/P8kD6eu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/channels/@me/1226517205467009105"><img width="48px" alt="Discord" title="Discord" src="https://i.imgur.com/yFf5Y3n.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
