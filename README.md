@@ -166,8 +166,9 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <summary>Buy Me A Coffee</summary>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/13296016-c859-4387-98ab-24ba9c03ba82" width="80%" height="auto"/></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> -->
 
-<p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" width="30%" height="auto"/></a></p>
 
 </details>
 
