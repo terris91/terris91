@@ -30,7 +30,8 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <details>
   <summary>More about me</summary>
-
+<br>
+  
 - **Name**: Hoang
 - **From**: Vietnam
 - **CE Student**
