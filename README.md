@@ -25,7 +25,7 @@
 </h2>
 
 I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer** or **Motion Graphics Designer**(Optional). <br>
-**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of design. I thrive on creating responsive Movie or Anime Streaming Websites (yes, I'm a Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements. (Is it strange for a CE Student to have these hobbies?)
+**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating responsive Movie or Anime Streaming Websites (yes, I'm a Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements. (Is it strange for a CE Student to have these hobbies?)
 
 
 <details>
@@ -88,9 +88,9 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
  - 💯 Visit this amazing [Obfuscator Project](https://github.com/hngocuyen/enjuly19) for Python by [Huynhngocuyen](https://github.com/hngocuyen)
   
- - 🚀 Read this [Python Obfuscation Docs](https://github.com/hngocuyen/OEK) for Vietnamese people if you want to make Obfuscator or Reverse Engineering.
+ - 🚀 Read this [Python Obfuscation Docs](https://github.com/hngocuyen/OEK) for Vietnamese people if you want to make Obfuscator or Reverse Engineering in Python.
   
- - 🔥 [Bug Bounty Tools](https://github.com/coffinxp?tab=repositories)
+ - 🔥 [Python Selenium 2024](https://github.com/terris91/auto_python_vietnam)
 <!-- PROJECTS:END -->
 </details> 
 
@@ -111,12 +111,13 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 | **Programming:** | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">|
 | **Operating System:** | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
 | **Other Technologies:** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+|**Editing**| <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
 <!-- <img src="" alt=""> -->
 
 
 ### Real Life Skills
 
-<img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Team%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Event%20Management-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Leadership-skyblue" alt="">
+<img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">
 <img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Solving-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
 
 
@@ -170,7 +171,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 </details>
 
-
+<!--
  <h2 id="donate" align=''>Contact 📨</h2>
 <details>
   <summary>Show Contact</summary>
@@ -188,7 +189,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 </
   div>
 </details>
-
+-->
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
 </p>
