@@ -190,6 +190,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
   div>
 </details>
 -->
+<br><br><br>
 <p align="center">
   <b><i>"HOPE"</i></b>
 </p>
