@@ -143,6 +143,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 | [Messenger Bot](https://github.com/terris91/SIESTA-BOT) | SIESTA-BOT is a Messenger ChatBot based on [Mirrai-V2](https://github.com/m1raibot/miraiv2) . |
 | [Captcha Bot](https://github.com/terris91/Bot-captcha-Tele) | It is a Telegram Captcha Bot using reCaptcha, very useful for private telegram group. |
 | [Wifi Password Brute-Forcer](https://github.com/terris91/check-pass-wifi) | A simple tool I wrote in Python :) (Very slow). |
+| [Python Selenium DOCS 2024](https://github.com/terris91/auto_python_vietnam) | Yeah, I really wrote a DOCS for the new Python Selenium Version, but it took too much time and I was too lazy |
 
 
 </details>
