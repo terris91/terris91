@@ -25,7 +25,7 @@
 </h2>
 
 I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer** or **Motion Graphics Designer**(Optional). <br>
-**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating responsive Movie or Anime Streaming Websites (yes, I'm a Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements. (Is it strange for a CE Student to have these hobbies?)
+**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating responsive Movie or Anime Streaming Websites (Yes, I'm an Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements. (Is it strange for a CE Student to have these hobbies?)
 
 
 <details>
