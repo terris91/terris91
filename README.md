@@ -38,7 +38,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - **Video Editor** | **Motion Graphics Ads Creator** (low-level) | **Banner/Poster Ads Designer** (standard-level)
 - Entry-level in **Reverse Engineering**, **Malware Analysis**
 - Enhancing Expertise in **Front-End Web Development**
-- I’m planning to dive into **Back-End Web Development** in the future, building on my front-end skills to create full, end-to-end applications
+- I’m planning to dive into **Front-End Web Development** in the future, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
 - I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
