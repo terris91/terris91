@@ -25,8 +25,7 @@
 </h2>
 
 I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer** or **Motion Graphics Designer** (Optional). <br>
-**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating responsive Movie or Anime Streaming Websites (Yes, I'm an Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements. <br>
-And I just wanna say that I love **ChatGPT** so much because basically I learnt everything from it (English, Coding, Design skills, ... ). What a helpful AI.
+**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating responsive Movie or Anime Streaming Websites (Yes, I'm an Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements.
 
 <details>
   <summary>More about me</summary>
@@ -41,6 +40,7 @@ And I just wanna say that I love **ChatGPT** so much because basically I learnt 
 - I’m planning to dive into **Front-End Web Development** in the future, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
 - I’m currently learning **EVERYTHING**
+- And I just wanna say that I love **ChatGPT** so much because basically I learnt everything from it (English, Coding, Design skills, ... ). What a helpful "friend"
 - Reach me out at **versedev.store@proton.me**
 
 </details>
