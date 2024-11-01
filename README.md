@@ -52,13 +52,12 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
 
-👉 Still Learning Javascript  & Tailwind CSS.
+👉 Currently Learning Javascript  & Tailwind CSS.
 
 👉 Writing Some Useful Python & .NET Frameworks Tools For Myself.
 
 👉 Creating Dynamic Ads, Posters, & Videos.
 
-👉 Currently Learning About Hardware Programming But It Is So Hard ( I Quite Hate It :( )
 
 `Update Jul 24, 2024:`  I'll be launching A lot of exciting Open Source Projects soon.
 
