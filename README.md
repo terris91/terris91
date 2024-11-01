@@ -28,7 +28,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 **Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating responsive Movie or Anime Streaming Websites (Yes, I'm an Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements. <br>
 And I just wanna say that I love **ChatGPT** so much because basically I learnt everything from it (English, Coding, Design skills, ... ). What a helpful AI.
 
-
 <details>
   <summary>More about me</summary>
 <br>
