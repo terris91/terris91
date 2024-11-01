@@ -52,7 +52,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
 
-👉 Currently Learning Javascript  & Tailwind CSS.
+👉 Currently Learning NextJS & Motion Graphics.
 
 👉 Writing Some Useful Python & .NET Frameworks Tools For Myself.
 
