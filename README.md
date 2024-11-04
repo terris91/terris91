@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer with SEO SKills** or **Freelance Graphics Designer** (Optional). <br>
+I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer and SEOer** or **Freelance Graphics Designer** (Optional). <br>
 **Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating responsive Movie or Anime Streaming Websites (Yes, I'm an Otaku. LOL!) and crafting eye-catching Motion Graphics Advertisements.
 
 <details>
