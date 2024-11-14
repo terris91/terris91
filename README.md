@@ -47,7 +47,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <br>
 
 ---
-
+<!--
 <h2 id="present_status"> Present Status ✏️</h3>
 
 <img width="50%" align='right' src="https://i.imgur.com/xrWnSHz.gif">
@@ -84,14 +84,14 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <details>
 <summary>Show Projects</summary>
-<!-- PROJECTS:START -->
+
 
  - 💯 Visit this amazing [Obfuscator Project](https://github.com/hngocuyen/enjuly19) for Python by [Huynhngocuyen](https://github.com/hngocuyen)
   
  - 🚀 Read this [Python Obfuscation Docs](https://github.com/hngocuyen/OEK) for Vietnamese people if you want to make Obfuscator or Reverse Engineering in Python.
   
  - 🔥 [Python Selenium 2024](https://github.com/terris91/auto_python_vietnam)
-<!-- PROJECTS:END -->
+
 </details> 
 
 
@@ -112,7 +112,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 | **Operating System** | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt=""> |
 | **Other Technologies** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 |**Editing**| <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"><br><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
-<!-- <img src="" alt=""> -->
+
 
 
 ### Real Life Skills
@@ -126,7 +126,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <!-- <details>
 <summary>Open some Section</summary>
 
-</details> -->
+</details> 
 
 
 <h2 id="projects" align=''> My Open-Source Projects 🔥</h2>
@@ -146,9 +146,9 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 
 </details>
+-->
 
-
-<h2 id="donate" align=''>Donate ⚡️ Support</h2>
+<h2 id="donate" align=''>⚡️ Support</h2>
 
 <details>
 <summary>Crypto</summary>
