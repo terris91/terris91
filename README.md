@@ -40,7 +40,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - I’m planning to dive into **Front-End Web Development** in the future, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
 - I’m currently learning **EVERYTHING**
-- And I just wanna say that I love **ChatGPT** so much because basically I learnt everything from it (English, Coding, Design skills, ... ). What a helpful "friend"
 - Reach me out at **versedev.store@proton.me**
 
 </details>
