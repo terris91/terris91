@@ -57,14 +57,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 ## ✒️ Editing
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
 
-## 🧑‍💻 GitHub Stats
-<table>
-	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&theme=great-gatsby&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
-	<td width="45%">
-		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=great-gatsby&show_icons=true&hide_border=true" />
-		<img src="https://streak-stats.demolab.com?user=terris91&theme=great-gatsby&hide_border=true" />  
-	</td>
-</table>
 
 <!--
 <h2 id="present_status"> Present Status ✏️</h3>
@@ -94,7 +86,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=terris91&theme=vision-friendly-dark)](https://github.com/terris91/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=terris91&theme=dark&card_width=450)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=terris91&theme=great-gatsbyhide_border=true&mode=weekly)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/terris91/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
 
 <br><br>
