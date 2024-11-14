@@ -57,6 +57,15 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 ## ✒️ Editing
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
 
+## 🧑‍💻 GitHub Stats
+
+<table>
+	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&theme=merko&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
+	<td width="45%">
+		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=merko&show_icons=true&hide_border=true" />
+		<img src="https://streak-stats.demolab.com?user=terris91&theme=merko&hide_border=true&mode=weekly" />  
+	</td>
+</table>
 
 <!--
 <h2 id="present_status"> Present Status ✏️</h3>
