@@ -52,10 +52,10 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 [![My Skills](https://skillicons.dev/icons?i=js,python,go,dotnet,html,css,nodejs,react,next,nest,vue,express,tailwindcss,ts,threejs)](https://skillicons.dev)
 
 ## 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,docker,npm,pnpm,vite,webpack,github,figma,aws,azure,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,docker,npm,pnpm,vite,webpack,github,aws,azure,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
 ## ✒️ Editing
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
 
 
 <!--
