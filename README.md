@@ -204,10 +204,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 </details>
 -->
 <p align="center">
-  <b><i>"HOPE"</i></b>
-</p>
-<p align="center">
-  <b><i>"Hold on, Pain ends."</i></b>
+  <b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b>
 </p>
 <p align="center">
 <a>🌱</a>
