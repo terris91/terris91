@@ -55,11 +55,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,docker,npm,pnpm,vite,webpack,github,figma,aws,azure,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
 ## ✒️ Editing
-
-<img src="https://github.com/user-attachments/assets/04748881-3830-48e0-bb71-340f5ab07518" height="50px"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/66d661de-5a00-45ba-99e6-6c382e0af41b" height="50px"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/44c99eb5-b1a5-4c06-8b96-7d1ff0e912df" height="50px"/>&nbsp;
-<img src="https://github.com/user-attachments/assets/729bed37-01c0-446e-8d61-1426ec4440f1" height="50px"/>
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai)](https://skillicons.dev)
 
 
 <!--
