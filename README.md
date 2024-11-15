@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer and SEOer** or **Freelance Graphics Designer** (Optional). <br>
+I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer** or **Freelance Graphics Designer** (Optional). <br>
 **Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating Movie or Anime Streaming Websites (with many features) and crafting eye-catching Motion Graphics Advertisements.
 
 <details>
@@ -34,10 +34,11 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - **Name**: Hoang
 - **From**: Vietnam
 - **CE Student**
+- **Front-end Developer** (standard-level) | **Back-end Development** (low-level) | **UX/UI**
 - **Video Editor** | **Motion Graphics Ads Creator** (low-level) | **Banner/Poster Ads Designer** (standard-level)
 - Entry-level in **Reverse Engineering**, **Malware Analysis**
 - Enhancing Expertise in **Front-End Web Development**
-- I’m planning to dive into **Front-End Web Development** in the future, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
+- Continuing **Front-End Web Development**, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
 - I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
