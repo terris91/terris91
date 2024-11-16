@@ -48,7 +48,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 ---
 
 ## 💡 Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=js,python,go,dotnet,html,css,nodejs,react,next,nest,vue,express,tailwindcss,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,cpp,dotnet,html,css,nodejs,react,next,nest,vue,express,tailwindcss,threejs)](https://skillicons.dev)
 
 ## 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,docker,npm,pnpm,vite,webpack,github,aws,azure,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
