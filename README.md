@@ -1,9 +1,9 @@
-<!-- WHY ARE YOU VIEWING MY PROFILE SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-
-
-
-
-
+<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
+<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
+<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
+<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
+<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
+<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
@@ -184,23 +184,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <!--!
 
- <h2 id="donate" align=''>Contact 📨</h2>
-<details>
-  <summary>Show Contact</summary>
- <div>
-<p align="center">
-  <a href="https://t.me/VerseDev"><img width="48px" alt="Telegram" title="Telegram" src="https://i.imgur.com/V98hlNv.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/lventador.verse"><img width="48px" alt="Facebook" title="Facebook" src="https://i.imgur.com/2OULVpW.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_verse.des/" alt="Instagram"><img width="48px" src="https://i.imgur.com/P8kD6eu.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/channels/@me/1226517205467009105"><img width="48px" alt="Discord" title="Discord" src="https://i.imgur.com/yFf5Y3n.png"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:versedev.store@proton.me"><img width="48px" alt="Mail" title="Mail" src="https://i.imgur.com/D5dddvf.png"></a>
-</
-  div>
-</details>
+
 -->
 <p align="center">
   <b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b>
