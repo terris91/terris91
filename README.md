@@ -1,9 +1,5 @@
 <!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
@@ -180,7 +176,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <p align="center"><img src="https://github.com/user-attachments/assets/6573a9d6-40b8-4f92-b71e-8d8e293158a3" width="90%" height="auto"/></p>
 <!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> -->
 <p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://github.com/user-attachments/assets/68f7f0c1-7574-454d-9f93-3fa2387242a8" width="30%" height="auto"/></a></p>
-<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rzyydhxtq6jcf4ewprwwru6nuy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="90%" height="auto"/></p>
 
 <!--!
 
@@ -192,3 +187,5 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <p align="center">
 <a>🌱</a>
 </p>
+
+<p align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rzyydhxtq6jcf4ewprwwru6nuy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="40%" height="auto"/></p>
