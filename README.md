@@ -14,6 +14,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <details>
   <summary>More about me</summary>
 <br>
+	
 - **Name**: Hoang
 - **From**: Vietnam
 - **CE Student**
@@ -24,6 +25,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
 - I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
+
 </details>
 <br>
 
