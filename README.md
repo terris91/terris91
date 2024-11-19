@@ -37,9 +37,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 </div>
 
 ---
-
-<table>
-	<td width="55%">
 				
 ## 💡 Tech Stack 
 [![My Skills](https://skillicons.dev/icons?i=js,python,cpp,html,css,nodejs,react,next,go,tailwindcss)](https://skillicons.dev)
@@ -50,26 +47,16 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 ## ✒️ Editing
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
 
-</td>
-	<td width="45%">
-		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=gruvbox&show_icons=true&hide_border=true" align="right"/>
-		<img src="https://streak-stats.demolab.com?user=terris91&theme=gruvbox&hide_border=true&mode=weekly" align="right"/>  
-	</td>
-
-</table>
-	
-
-
 ## 🚀 GitHub Stats
 <table>
 	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
 	<td width="45%">
-		<img src='https://count.getloli.com/@terris91?name=terris91&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto' alt='visitor count' />
-		<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" height="auto" width="120%"/></a></p>
+		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=gruvbox&show_icons=true&hide_border=true" align="right"/>
+		<img src="https://streak-stats.demolab.com?user=terris91&theme=gruvbox&hide_border=true&mode=weekly" align="right"/>  
 	</td>
 </table>
 
-
-
+<img src='https://count.getloli.com/@terris91?name=terris91&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto' alt='visitor count' width="50%" align="right"/>
+<p align="left"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" height="auto" width="48%"/></a></p>
 <p align="center"><b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b></p>
 <p align="center"><a>🌱</a></p>
