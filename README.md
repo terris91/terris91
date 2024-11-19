@@ -27,7 +27,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - Reach me out at **versedev.store@proton.me**
 
 </details>
-<br>
+
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/-L'Ventador_Verse-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/VerseDev)
