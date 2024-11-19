@@ -9,7 +9,7 @@
 <h2 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
 
 I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer** or **Freelance Graphics Designer** (Optional). <br>
-**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating Movie or Anime Streaming Websites (with many features) and crafting eye-catching Motion Graphics Advertisements.
+**Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating **Dynamic Websites** and crafting eye-catching **Product Manipulation Poster**.
 
 <details>
   <summary>More about me</summary>
