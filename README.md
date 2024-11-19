@@ -1,6 +1,3 @@
-<!-- WHY ARE YOU VIEWING MY PROFILE'S SOURCE CODE? IF YOU WANT TO COPY THEN NOTHING TO SAY BUT THIS IS THE ORIGINAL CREATED IN 07/24/2024 AND IF YOU SEE ANOTHER PROFILE IS IN THE SAME STYLE, THEY COPIED MINE :)-->
-
-
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto"/></p>
 
 <div align="center">
@@ -8,17 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=19&pause=500&color=FFCE76&width=435&lines=On+a+journey+to+become+a+great+human..." alt="Typing SVG" />
   </a>
 </div>
-<!--
-<h3 align="center">On a Journey to become a great human being...<p align="right"></h3> -->
-
 
 <img width="28%" align='right' src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-
-<h2 align="left">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
+<h2 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
 
 I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Developer** or **Freelance Graphics Designer** (Optional). <br>
 **Technology** and **Art** have always been my twin fascinations, driving me deep into the compelling world of **Design**. I thrive on creating Movie or Anime Streaming Websites (with many features) and crafting eye-catching Motion Graphics Advertisements.
@@ -26,7 +16,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <details>
   <summary>More about me</summary>
 <br>
-  
 - **Name**: Hoang
 - **From**: Vietnam
 - **CE Student**
@@ -37,7 +26,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
 - I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
-
 </details>
 <br>
 
@@ -52,6 +40,18 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 ## ✒️ Editing
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
 
+## 🚀 GitHub Stats
+<table>
+	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
+	<td width="45%">
+		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=gruvbox&show_icons=true&hide_border=true" />
+		<img src="https://streak-stats.demolab.com?user=terris91&theme=gruvbox&hide_border=true&mode=weekly" />  
+	</td>
+</table>
+
+<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="30%" height="auto"/></a></p>
+<p align="center"><b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b></p>
+<p align="center"><a>🌱</a></p>
 
 <!--
 <h2 id="present_status"> Present Status ✏️</h3>
@@ -73,10 +73,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 ---
 
-
-
-
-
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
@@ -90,19 +86,14 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <details>
 <summary>Show Projects</summary>
-
-
  - 💯 Visit this amazing [Obfuscator Project](https://github.com/hngocuyen/enjuly19) for Python by [Huynhngocuyen](https://github.com/hngocuyen)
   
  - 🚀 Read this [Python Obfuscation Docs](https://github.com/hngocuyen/OEK) for Vietnamese people if you want to make Obfuscator or Reverse Engineering in Python.
   
  - 🔥 [Python Selenium 2024](https://github.com/terris91/auto_python_vietnam)
-
 </details> 
 
-
 <h2 id="skills" align=''> Skills 🌱</h3>
-
 
  <details>
 <summary>Show Skills</summary>
@@ -119,21 +110,14 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 | **Other Technologies** |  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">&nbsp;<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
 |**Editing**| <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"><br><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
 
-
-
 ### Real Life Skills
-
 <img src="https://img.shields.io/badge/-Conversational%20English-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Communication%20Skills-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Creative%20Thinking-skyblue" alt="">
 <img src="https://img.shields.io/badge/-Nonverbal%20communication-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Ready%20to%20Learn%20%26%20Evolve-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Teamwork%20%26%20Collaboration-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Problem%20Solving-skyblue" alt="">&nbsp;<img src="https://img.shields.io/badge/-Critical%20Thinking%20%26%20Analysis-skyblue" alt="">
 
-
 </details>
-
 <!-- <details>
 <summary>Open some Section</summary>
-
 </details> 
-
 
 <h2 id="projects" align=''> My Open-Source Projects 🔥</h2>
 
@@ -149,8 +133,6 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 | [Captcha Bot](https://github.com/terris91/Bot-captcha-Tele) | It is a Telegram Captcha Bot using reCaptcha, very useful for private telegram group. |
 | [Wifi Password Brute-Forcer](https://github.com/terris91/check-pass-wifi) | A simple tool I wrote in Python :) (Very slow). |
 | [Python Selenium DOCS 2024](https://github.com/terris91/auto_python_vietnam) | Yeah, I really wrote a DOCS for the new Python Selenium Version, but it took too much time and I was too lazy |
-
-
 </details>
 -->
 
@@ -177,19 +159,5 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> 
 <p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://github.com/user-attachments/assets/68f7f0c1-7574-454d-9f93-3fa2387242a8" width="30%" height="auto"/></a></p>
 -->
-## 🚀 GitHub Stats
 
-<table>
-	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
-	<td width="45%">
-		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=gruvbox&show_icons=true&hide_border=true" />
-		<img src="https://streak-stats.demolab.com?user=terris91&theme=gruvbox&hide_border=true&mode=weekly" />  
-	</td>
-</table>
-
-
-<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="30%" height="auto"/></a></p>
-
-<p align="center"><b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b></p>
-<p align="center"><a>🌱</a></p>
 
