@@ -177,7 +177,15 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> 
 <p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://github.com/user-attachments/assets/68f7f0c1-7574-454d-9f93-3fa2387242a8" width="30%" height="auto"/></a></p>
 -->
+## 🚀 GitHub Stats
 
+<table>
+	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
+	<td width="45%">
+		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=gruvbox&show_icons=true&hide_border=true" />
+		<img src="https://streak-stats.demolab.com?user=terris91&theme=gruvbox&hide_border=true&mode=weekly" />  
+	</td>
+</table>
 
 
 <p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="40%" height="auto"/></a></p>
