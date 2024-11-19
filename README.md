@@ -188,12 +188,8 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 </table>
 
 
-<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="40%" height="auto"/></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="30%" height="auto"/></a></p>
 
-<p align="center">
-  <b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b>
-</p>
-<p align="center">
-<a>🌱</a>
-</p>
+<p align="center"><b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b></p>
+<p align="center"><a>🌱</a></p>
 
