@@ -32,7 +32,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 [![Telegram](https://img.shields.io/badge/-L'Ventador_Verse-black?labelColor=black&logo=telegram&logoColor=white&style=flat-square)](https://t.me/VerseDev)
 [![Instagram](https://img.shields.io/badge/-__verse.des-black?labelColor=black&logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/_verse.des)
-[![email](https://img.shields.io/badge/-versedev.store@proton.me-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:versedev.store@proton.me)
+[![Email](https://img.shields.io/badge/-versedev.store@proton.me-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:versedev.store@proton.me)
 
 </div>
 
