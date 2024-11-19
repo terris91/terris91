@@ -188,4 +188,4 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <a>🌱</a>
 </p>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rzyydhxtq6jcf4ewprwwru6nuy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="40%" height="auto"/></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="40%" height="auto"/></a></p>
