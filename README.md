@@ -155,13 +155,13 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 -->
 
 
-
+<!--
 <h2 id="donate" align=''>⚡️ Support</h2>
 
 <details>
 <summary>Crypto</summary>
 
-<!-- <a href="" target="_blank"><img src="" width="00px"/></a> -->
+<!-- <a href="" target="_blank"><img src="" width="00px"/></a> 
 
 | Name | Description | Address |
 | ---- | ----------- | ----- |
@@ -174,13 +174,14 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <br>
 <p align="center"><img src="https://github.com/user-attachments/assets/6573a9d6-40b8-4f92-b71e-8d8e293158a3" width="90%" height="auto"/></p>
-<!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> -->
+<!-- <p align="center"><img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif" width="40%" height="auto"/></p> 
 <p align="center"><a href="https://buymeacoffee.com/terris"><img  src="https://github.com/user-attachments/assets/68f7f0c1-7574-454d-9f93-3fa2387242a8" width="30%" height="auto"/></a></p>
-
-<!--!
-
-
 -->
+
+
+
+<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="40%" height="auto"/></a></p>
+
 <p align="center">
   <b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b>
 </p>
@@ -188,4 +189,3 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <a>🌱</a>
 </p>
 
-<p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" width="40%" height="auto"/></a></p>
