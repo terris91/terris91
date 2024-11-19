@@ -56,6 +56,11 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 	</td>
 </table>
 
+## 🧑‍💻 View Count
+<div align="center">
+<img src='https://count.getloli.com/@terris91?name=terris91&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=auto' alt='visitor count'/>
+</div>
+
 <p align="center"><a href="https://www.youtube.com/watch?v=uKxyLmbOc0Q"><img src="./media/renai_circulation.svg" height="auto" width="30%"/></a></p>
 <p align="center"><b><i>"Be A Dev Or Be A Des? Neither! Be Depressed!"</i></b></p>
 <p align="center"><a>🌱</a></p>
