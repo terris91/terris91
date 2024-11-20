@@ -18,6 +18,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - **Name**: Hoang
 - **From**: Vietnam
 - **CE Student**
+- **Skills**: Typescript | Python
 - **Front-end Developer** (standard-level) | **Back-end Development** (low-level) | **UX/UI**
 - **Video Editor** | **Motion Graphics Ads Creator** (low-level) | **Banner/Poster Ads Designer** (standard-level)
 - Entry-level in **Reverse Engineering**, **Malware Analysis**
@@ -49,10 +50,10 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 ## 🚀 GitHub Stats
 <table>
-	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terris91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
+	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verse91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
 	<td width="45%">
-		<img src="https://github-readme-stats.vercel.app/api?username=terris91&theme=gruvbox&show_icons=true&hide_border=true" align="right"/>
-		<img src="https://streak-stats.demolab.com?user=terris91&theme=gruvbox&hide_border=true&mode=weekly" align="right"/>  
+		<img src="https://github-readme-stats.vercel.app/api?username=verse91&theme=gruvbox&show_icons=true&hide_border=true" align="right"/>
+		<img src="https://streak-stats.demolab.com?user=verse91&theme=gruvbox&hide_border=true&mode=weekly" align="right"/>  
 	</td>
 </table>
 
