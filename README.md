@@ -51,7 +51,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25px"/> GitHub Stats</h2>
+<h2 align="left"><img src="https://github.com/user-attachments/assets/32d977c6-dbc5-46cc-933e-995915d56840" width="35px"/> GitHub Stats</h2> 
 <table>
 	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verse91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
 	<td width="45%">
