@@ -38,17 +38,20 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 </div>
 
 ---
-				
-## 💡 Tech Stack 
+
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2
+																				     
 [![My Skills](https://skillicons.dev/icons?i=js,python,net,html,css,nodejs,react,next,go,tailwindcss,bun)](https://skillicons.dev)
 
-## 🛠️ Tools
+<h2 align="left"><img src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxNjIwNjgsIm5iZiI6MTczMjE2MTc2OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIxVDA0MDI0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzOWU3OTg1OWMzNmIyZWFiNGZjY2NmMzQwOWEzODhhYTEwMDNjODAwOTZiOWY3OTJlNTE4NmViMmRmOTA0YWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DJ85Tu5U72FlW9656xa1cTq1DPICGufo8uh03QRWKi0" width="35px"/> Tools</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,docker,npm,pnpm,vite,github,aws,cloudflare,vercel,netlify)](https://skillicons.dev)
 
-## ✒️ Editing
+<h2 align="left"><img src="https://github.com/user-attachments/assets/fadb4ba9-3268-4fd9-88a1-79fae257718a" width="35px"/> Editing</h2
+
 [![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
 
-## 🚀 GitHub Stats
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25px"/> GitHub Stats</h2>
 <table>
 	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verse91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
 	<td width="45%">
