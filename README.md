@@ -39,9 +39,21 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 ---
 
-<h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="45px"/> Project </h1>
+<details>
 
----
+<summary><h1 align="left"><img src="https://github.com/user-attachments/assets/f3a48ae3-709a-4048-bbd6-aec51d695e8b" width="45px"/>Show Projects</h1></summary>
+
+### My Own Projects
+**I'm sorry, but most of my tools can't be made public due to privacy concerns and terms of use.**
+| Project | Description |
+| ------  | ----------- |
+| [Portfolio Website](https://github.com/terris91/portfolio-website) | A portfolio website made with Vue.js and Tailwind CSS. 🌎💻 |
+| [Messenger Bot](https://github.com/terris91/SIESTA-BOT) | SIESTA-BOT is a Messenger ChatBot based on [Mirrai-V2](https://github.com/m1raibot/miraiv2) . |
+| [Captcha Bot](https://github.com/terris91/Bot-captcha-Tele) | It is a Telegram Captcha Bot using reCaptcha, very useful for private telegram group. |
+| [Wifi Password Brute-Forcer](https://github.com/terris91/check-pass-wifi) | A simple tool I wrote in Python :) (Very slow). |
+| [Python Selenium DOCS 2024](https://github.com/terris91/auto_python_vietnam) | Yeah, I really wrote a DOCS for the new Python Selenium Version, but it took too much time and I was too lazy |
+</details>
+
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
