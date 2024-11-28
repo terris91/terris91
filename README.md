@@ -44,16 +44,18 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 <summary><h1 align="left"><img src="https://github.com/user-attachments/assets/f3a48ae3-709a-4048-bbd6-aec51d695e8b" width="45px"/>Show Projects</h1></summary>
 
 ### My Own Projects
-**I'm sorry, but most of my tools can't be made public due to privacy concerns and terms of use.**
+
 | Project | Description |
 | ------  | ----------- |
-| [Portfolio Website](https://github.com/terris91/portfolio-website) | A portfolio website made with Vue.js and Tailwind CSS. 🌎💻 |
-| [Messenger Bot](https://github.com/terris91/SIESTA-BOT) | SIESTA-BOT is a Messenger ChatBot based on [Mirrai-V2](https://github.com/m1raibot/miraiv2) . |
-| [Captcha Bot](https://github.com/terris91/Bot-captcha-Tele) | It is a Telegram Captcha Bot using reCaptcha, very useful for private telegram group. |
-| [Wifi Password Brute-Forcer](https://github.com/terris91/check-pass-wifi) | A simple tool I wrote in Python :) (Very slow). |
-| [Python Selenium DOCS 2024](https://github.com/terris91/auto_python_vietnam) | Yeah, I really wrote a DOCS for the new Python Selenium Version, but it took too much time and I was too lazy |
+| [Portfolio Website](https://github.com/verse91/portfolio-website) | A portfolio website made with Vue.js and Tailwind CSS. 🌎💻 |
+| [Messenger Bot](https://github.com/verse91/SIESTA-BOT) | SIESTA-BOT is a Messenger ChatBot based on [Mirrai-V2](https://github.com/m1raibot/miraiv2) . |
+| [Walmart Account Register Tool](https://github.com/verse91/walmart-account-register-tool) | I made this with Python Selenium, but I couldn't bypass the "Press and hold" captcha (W Walmart's Security). |
+| [Python Selenium DOCS 2024](https://github.com/verse91/auto_python_vietnam) | Yeah, I really wrote a DOCS for the new Python Selenium Version, but it took too much time and I was too lazy |
+
+<h5 align="center"><i>I'm sorry, because some of my repositories were given up or stopped working.<i/></h5>
 </details>
 
+---
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
