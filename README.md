@@ -45,7 +45,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/c625cbc7-f168-49ba-8d45-9f66af0c7af4" width="35px"/> Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb,docker,npm,pnpm,vite,github,aws,cloudflare,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,docker,npm,pnpm,vite,github,aws,cloudflare,vercel,netlify)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/fadb4ba9-3268-4fd9-88a1-79fae257718a" width="35px"/> Editing</h2
 
