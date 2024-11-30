@@ -38,9 +38,9 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 ---
 
-<details>
 
-<summary><h1 align="left"><img src="https://github.com/user-attachments/assets/f3a48ae3-709a-4048-bbd6-aec51d695e8b" width="45px"/>Show Projects</h1></summary>
+
+<h1 align="left"><img src="https://github.com/user-attachments/assets/f3a48ae3-709a-4048-bbd6-aec51d695e8b" width="45px"/>Projects</h1>
 
 ### My Own Projects
 
@@ -52,9 +52,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 | [Python Selenium DOCS 2024](https://github.com/verse91/auto_python_vietnam) | Yeah, I really wrote a DOCS for the new Python Selenium Version, but it took too much time and I was too lazy |
 
 <h5 align="center"><i>I'm sorry, because some of my repositories were given up or stopped working.<i/></h5>
-</details>
 
----
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
