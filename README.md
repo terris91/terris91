@@ -18,7 +18,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - **From**: Vietnam
 - **CE Student**
 - **Skills**: Typescript | Python
-- **Front-end Developer** (Intermediate) | **Back-end Development** (Beginer) | **UX/UI**
+- **Front-end Developer** (Intermediate) | **Back-end Development** (Beginner) | **UX/UI**
 - **Video Editor** (Advanced) | **Motion Graphics Ads Creator** (Low-Level) | **Banner/Poster Ads Designer** (Intermediate)
 - Entry-level in **Reverse Engineering**, **Malware Analysis**
 - Enhancing Expertise in **Front-End Web Development**, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
