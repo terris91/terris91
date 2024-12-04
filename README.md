@@ -20,9 +20,9 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - **Skills**: Typescript | Python
 - **Front-end Developer** (Intermediate) | **Back-end Development** (Beginner) | **UX/UI**
 - **Video Editor** (Advanced) | **Motion Graphics Ads Creator** (Low-Level) | **Banner/Poster Ads Designer** (Intermediate)
-- Entry-level in **Reverse Engineering**, **Malware Analysis**
+- Entry-level in **Web Security**
 - Enhancing Expertise in **Front-End Web Development**, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
-- I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro** (Too lazy to learn **Illustrator**)
+- I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
 - I’m currently learning **EVERYTHING**
 - Reach me out at **versedev.store@proton.me**
 </details>
@@ -48,15 +48,15 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"/> Tech Stack </h2>
 																				     
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,net,html,css,nodejs,react,next,go,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,next,go,tailwindcss)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/c625cbc7-f168-49ba-8d45-9f66af0c7af4" width="35px"/> Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,docker,npm,pnpm,bun,vite,github,cloudflare,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,docker,npm,bun,vite,cloudflare,vercel,netlify,firebase)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/fadb4ba9-3268-4fd9-88a1-79fae257718a" width="35px"/> Editing</h2
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,figma)](https://skillicons.dev)
 
 <h2 align="left"><img src="https://github.com/user-attachments/assets/32d977c6-dbc5-46cc-933e-995915d56840" width="35px"/> GitHub Stats</h2> 
 <table>
