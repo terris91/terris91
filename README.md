@@ -19,7 +19,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Front-end Develop
 - **CE Student**
 - **Skills**: Typescript | Python
 - **Front-end Developer** (Intermediate) | **Back-end Development** (Beginner) | **UX/UI**
-- **Video Editor** (Advanced) | **Motion Graphics Ads Creator** (Low-Level) | **Banner/Poster Ads Designer** (Intermediate)
+- **Video Editor** (Advanced) | **Typography Motion Graphics** (Low-Level) | **Banner/Poster Ads Designer** (Intermediate)
 - Entry-level in **Web Security**
 - Enhancing Expertise in **Front-End Web Development**, and a litlle bit of **Back-End Web Development** to create full, end-to-end applications
 - I'm also an editor with a medium level of proficiency in **Photoshop**, **After Effects** and **Premiere Pro**
