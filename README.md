@@ -63,7 +63,7 @@ I'm **Verse**, a Coder and Editor. I'm on my way to becoming **Back-end Develope
 	<td width="55%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verse91&theme=gruvbox&layout=donut&show_icons=true&hide_border=true" width="100%" /></td>
 	<td width="45%">
 		<img src="https://github-readme-stats.vercel.app/api?username=verse91&theme=gruvbox&show_icons=true&hide_border=true" align="right"/>
-		<img src="https://streak-stats.demolab.com/?user=verse91&theme=gruvbox&hide_border=true&mode=weekly" align="right"/>  
+		<img src="./media/streak.svg" align="right"/>  
 	</td>
 </table>
 
